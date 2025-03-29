@@ -10,7 +10,7 @@ pyautogui.write('https://sis.bsoft.com.br/')
 pyautogui.press('enter')
 #3 - Digitar TAG   
 pyautogui.click(1227,463, duration = 1)
-pyautogui.write('JTL091')
+pyautogui.write('')
 #4 - Confirmar TAG
 pyautogui.click(1401,458, duration = 1)
 #5 - Entrar na próxima tela
